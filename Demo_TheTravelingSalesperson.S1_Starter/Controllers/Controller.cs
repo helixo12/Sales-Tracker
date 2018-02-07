@@ -94,7 +94,7 @@ namespace Demo_TheTravelingSalesperson
         }
 
         ///
-        /// Buy product
+        /// Buy products
         /// 
         private void Buy()
         {
